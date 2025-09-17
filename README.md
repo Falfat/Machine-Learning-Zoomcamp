@@ -1,3 +1,3 @@
-# ML-zoomcamp-homeworks
+# ML-zoomcamp Materials
 
-This is the homework for the intorduction section.
+These are the notes and homeworks for the machine learning zoomcamp.
